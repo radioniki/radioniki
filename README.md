@@ -63,3 +63,5 @@ In my free time, I enjoy:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niki-radioti)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radiotiniki@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6fte4eyjzlu9unlwpwj1vdkv0?si=0eaa027390aa470e)
+
