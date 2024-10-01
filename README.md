@@ -4,25 +4,27 @@ Welcome to my GitHub profile! I'm an ambitious and dedicated Informatics student
 
 🔧 Skills & Tools
 
-Programming Languages:
+**Programming Languages:**
 
-         Proficient: Java, C++, Python, HTML/CSS, SQL
+Proficient: Java, C++, Python, HTML/CSS, SQL
         
-         Basic Knowledge: R, Assembly
+Basic Knowledge: R, Assembly
 
-        Software Development: Visual Studio 2022, Eclipse, IntelliJ IDEA, Android Studio, MIPS32, MinGW32
+**Software Development:** Visual Studio 2022, Eclipse, IntelliJ IDEA, Android Studio, MIPS32, MinGW32
         
-        Networking & System Analysis: Wireshark, Quartus
-        Data Science & Statistical Analysis: SPSS
+ **Networking & System Analysis:** Wireshark, Quartus
+ Data Science & Statistical Analysis: SPSS
         
-        Database Management: SQL Server Management Studio
+**Database Management:** SQL Server Management Studio
         
-        Operating Systems: MS Windows, Linux
+**Operating Systems:** MS Windows, Linux
 
 🌟 Featured Projects
 
-          Emotional Intelligence and Leadership: A university project for the Organizational Psychology course, analyzing the
-          role of emotional intelligence in leadership, with statistical analysis using R.
+ **Emotional Intelligence and Leadership**: A university project for the Organizational Psychology course, analyzing the
+ role of emotional intelligence in leadership, with statistical analysis using R.
+
+ **Card Matching Game**: A command-line card-matching game built in Python as part of a university exercise
 
 🎯 About Me
 
@@ -31,11 +33,9 @@ Programming Languages:
 
 In my free time, I enjoy:
 
-> Long-distance running
-
-> Boxing
-
-> Staying fit through various physical activities
++Long-distance running
++Boxing
++Staying fit through various physical activities
 
 These hobbies help me build discipline, strategic thinking, and mental endurance—skills that translate well into my professional life.
 
