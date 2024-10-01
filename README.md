@@ -1,4 +1,4 @@
-## Hi there i'm Niki👋
+## Hi there, i'm Niki👋
 
 Welcome to my GitHub profile! I'm an ambitious and dedicated Informatics student about to complete my degree. I am driven by my desire for personal and professional growth, always setting high goals and working persistently to achieve them.
 
@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm an ambitious and dedicated Informatics student
 
 Programming Languages:
 
-        Proficient: Java, C++, Python, HTML/CSS, SQL
+         Proficient: Java, C++, Python, HTML/CSS, SQL
         
-        Basic Knowledge: R, Assembly
+         Basic Knowledge: R, Assembly
 
         Software Development: Visual Studio 2022, Eclipse, IntelliJ IDEA, Android Studio, MIPS32, MinGW32
         
