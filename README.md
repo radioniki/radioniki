@@ -1,30 +1,50 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e5252df0-d06b-4522-8081-639e0b33360d" alt="Full Stack Developer" />
+</div>
+
 ## Hi there, i'm Niki👋
 
 Welcome to my GitHub profile! I'm an ambitious and dedicated Informatics student about to complete my degree. I am driven by my desire for personal and professional growth, always setting high goals and working persistently to achieve them.
 
-🔧 Skills & Tools
 
-**Programming Languages:**
+ 
+## 🔧 Skills & Tools
 
-Proficient: Java, C++, Python, HTML/CSS, SQL
-        
-Basic Knowledge: R, Assembly
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Software Development:** Visual Studio 2022, Eclipse, IntelliJ IDEA, Android Studio, MIPS32, MinGW32
-        
- **Networking & System Analysis:** Wireshark, Quartus
- Data Science & Statistical Analysis: SPSS
-        
-**Database Management:** SQL Server Management Studio
-        
-**Operating Systems:** MS Windows, Linux
+### 🖥️ Front-End Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🌟 Featured Projects
+### Software Development
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
- **Emotional Intelligence and Leadership**: A university project for the Organizational Psychology course, analyzing the
- role of emotional intelligence in leadership, with statistical analysis using R.
+### 📱 Mobile Development
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
- **Card Matching Game**: A command-line card-matching game built in Python as part of a university exercise
+
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Data Science & Statistical Analysis
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-BE2026?style=for-the-badge&logo=ibm&logoColor=white)
+
+### Networking & System Analysis:
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-007ACC?style=for-the-badge)
+
+
+
+![textanim-XKZUR](https://github.com/user-attachments/assets/17e262bf-62fb-4e7c-abb3-e78130598f68)
 
 🎯 About Me
 
@@ -39,10 +59,9 @@ In my free time, I enjoy:
                 
  **Staying fit through various physical activities**🏐
 
-These hobbies help me build discipline, strategic thinking, and mental endurance — skills that translate well into my professional life.
+
 
 📫 How to reach me:
 
-LinkedIn: www.linkedin.com/in/niki-radioti
-
-Email: radiotiniki@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niki-radioti)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radiotiniki@gmail.com)
