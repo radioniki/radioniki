@@ -28,19 +28,17 @@ Welcome to my GitHub profile! I'm an ambitious and dedicated Informatics student
 ### 📱 Mobile Development
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-
-### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ### Data Science & Statistical Analysis
-
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-BE2026?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### Networking & System Analysis:
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-007ACC?style=for-the-badge)
+
+### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
