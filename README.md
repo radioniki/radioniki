@@ -33,11 +33,13 @@ Basic Knowledge: R, Assembly
 
 In my free time, I enjoy:
 
-+Long-distance running
-+Boxing
-+Staying fit through various physical activities
+ **Long-distance running** 🏃
+                
+ **Boxing**🥊
+                
+ **Staying fit through various physical activities**🏐
 
-These hobbies help me build discipline, strategic thinking, and mental endurance—skills that translate well into my professional life.
+These hobbies help me build discipline, strategic thinking, and mental endurance — skills that translate well into my professional life.
 
 📫 How to reach me:
 
