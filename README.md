@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm an ambitious and dedicated Informatics student
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radioniki&hide=html,css)
 
 ![textanim-XKZUR](https://github.com/user-attachments/assets/17e262bf-62fb-4e7c-abb3-e78130598f68)
 
