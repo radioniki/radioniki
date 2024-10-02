@@ -46,9 +46,6 @@ Welcome to my GitHub profile! I'm an ambitious and dedicated Informatics student
 
 🎯 About Me
 
- I’m passionate about collaborating in dynamic environments where I can apply my calm demeanor and strategic thinking
- to solve problems. I'm constantly learning new things, seeking opportunities in web development and open to new challenges.
-
 In my free time, I enjoy:
 
  **Long-distance running** 🏃
@@ -60,6 +57,7 @@ In my free time, I enjoy:
 
 
 📫 How to reach me:
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niki-radioti)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radiotiniki@gmail.com)
