@@ -4,11 +4,10 @@
 
 ## Hi there, i'm Niki👋
 
-Welcome to my GitHub profile! I'm an ambitious and dedicated Informatics student about to complete my degree. I am driven by my desire for personal and professional growth, always setting high goals and working persistently to achieve them.
+Welcome to my GitHub profile!
 
 
- 
-## 🔧 Skills & Tools
+ ## 🔧 Skills & Tools
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -51,9 +50,7 @@ In my free time, I enjoy:
  **Long-distance running** 🏃
                 
  **Boxing**🥊
-                
- **Staying fit through various physical activities**🏐
-
+              
 
 
 📫 How to reach me:
